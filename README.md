@@ -18,7 +18,7 @@ Skills: HTML / CSS/BOOTSTRAP/ JS/ REACT /NODE.JS/EXPRESS.JS/MONGODB
 
 [![trophy](https://github-profile-trophy.vercel.app/?rkawser=https://github.com/rkawser)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?rkawser=https://github.com/rkawser)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?https://github.com/rkawser)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?rkawser=https://github.com/rkawser&show_icons=true)  
 
