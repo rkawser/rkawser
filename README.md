@@ -20,7 +20,7 @@ Skills: HTML / CSS/BOOTSTRAP/ JS/ REACT /NODE.JS/EXPRESS.JS/MONGODB
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?https://github.com/rkawser)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apirkawser=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api'rkawser'=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?rkawser=https://github.com/rkawser)  
 
