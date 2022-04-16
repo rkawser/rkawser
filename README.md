@@ -1,12 +1,16 @@
-### Hi there 👋, I'm Raihan kawser
-#### web developer
-![web developer](https://media-exp1.licdn.com/dms/image/C5616AQEUJCqbTfbrpQ/profile-displaybackgroundimage-shrink_350_1400/0/1638075583262?e=1654128000&v=beta&t=r6EbYKJ4f0CZliVTXr2Tx4n_D5naJ7VritYpEe_BNfg)
+### Hi there 👋, my name is Raihan Kawser
+#### I am a Front-End Developer
+![I am Front-End Developer](https://i.ibb.co/6rcZFMC/Raihan-kawser.png)
 
-I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. 
+I am Raihan kawser. Being interested to explore technologies I found web development as my passion. I am aspiring to bring that passion to a full-time role.
+While in love with JavaScript, my preference is to learn and adapt to popular frameworks, libraries, and packages in order to keep pace with the changing web environment.
 
-Skills:  HTML / CSS/ JS/ REACT  /NODE.JS/EXPRESS.JS/MONGODB/
+Skills:   HTML / CSS/BOOTSTRAP/ JS/ REACT /NODE.JS/EXPRESS.JS/MONGODB
 
 - 🔭 I’m currently working on this page. 
+
+
+
 
 
 
