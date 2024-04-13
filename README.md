@@ -1,5 +1,5 @@
 
-![I am a Front-End Developer](https://i.ibb.co/JxYsTLV/Raihan-kawser.png)
+
 ### Hi there 👋, my name Raihan Kawser
 #### Welcome to my GitHub profile. I am a Front-End Developer and Web Designer. Knock me:facebook.com/raihan.kawsar.9
 
